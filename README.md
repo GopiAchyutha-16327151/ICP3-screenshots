@@ -1,1 +1,1 @@
-# ICP3-screenshots
+# ICP3
